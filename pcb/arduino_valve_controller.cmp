@@ -1,0 +1,283 @@
+Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = Fri 01 Aug 2014 03:18:16 PM EDT
+
+BeginCmp
+TimeStamp = /53DBB16C;
+Reference = C1;
+ValeurCmp = 10uF;
+IdModule  = SM1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /5182CE9B;
+Reference = C2;
+ValeurCmp = 0.1uF;
+IdModule  = SM1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DBC3C6;
+Reference = C3;
+ValeurCmp = 0.1uF;
+IdModule  = SM1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /5187B461;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DBC45F;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DBC465;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LED0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DBC459;
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = LED0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DBC453;
+Reference = D5;
+ValeurCmp = LED;
+IdModule  = LED0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5183D21C;
+Reference = D6;
+ValeurCmp = LED;
+IdModule  = LED0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5183D21B;
+Reference = D7;
+ValeurCmp = LED;
+IdModule  = LED0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5183D21D;
+Reference = D8;
+ValeurCmp = LED;
+IdModule  = LED0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5183D21E;
+Reference = D9;
+ValeurCmp = LED;
+IdModule  = LED0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5183D1FD;
+Reference = D10;
+ValeurCmp = LED;
+IdModule  = LED0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5183D1FE;
+Reference = D11;
+ValeurCmp = LED;
+IdModule  = LED0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5183D1EF;
+Reference = D12;
+ValeurCmp = LED;
+IdModule  = LED0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5183D1E4;
+Reference = D13;
+ValeurCmp = LED;
+IdModule  = LED0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DBE6F4;
+Reference = MH1;
+ValeurCmp = CONN_1;
+IdModule  = MOUNTING_HOLE_4-40;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DBE703;
+Reference = MH2;
+ValeurCmp = CONN_1;
+IdModule  = MOUNTING_HOLE_4-40;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DBE712;
+Reference = MH3;
+ValeurCmp = CONN_1;
+IdModule  = MOUNTING_HOLE_4-40;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DBE721;
+Reference = MH4;
+ValeurCmp = CONN_1;
+IdModule  = MOUNTING_HOLE_4-40;
+EndCmp
+
+BeginCmp
+TimeStamp = /504A5A0E;
+Reference = P1;
+ValeurCmp = +5VDC;
+IdModule  = DCJACK_2PIN_HIGHCURRENT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5187B477;
+Reference = R1;
+ValeurCmp = 150;
+IdModule  = SM1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DBC51D;
+Reference = RP1;
+ValeurCmp = 150;
+IdModule  = RESISTOR_PACK_4;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DBC512;
+Reference = RP2;
+ValeurCmp = 150;
+IdModule  = RESISTOR_PACK_4;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DBC4E5;
+Reference = RP3;
+ValeurCmp = 150;
+IdModule  = RESISTOR_PACK_4;
+EndCmp
+
+BeginCmp
+TimeStamp = /504F5474;
+Reference = SHIELD1;
+ValeurCmp = ARDUINO_MEGA_SHIELD_FULL;
+IdModule  = ARDUINO_MEGA_SHIELD;
+EndCmp
+
+BeginCmp
+TimeStamp = /5254362E;
+Reference = U1;
+ValeurCmp = TLE723X;
+IdModule  = TLE723X;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DBC3B2;
+Reference = U2;
+ValeurCmp = TLE723X;
+IdModule  = TLE723X;
+EndCmp
+
+BeginCmp
+TimeStamp = /5182D133;
+Reference = V1;
+ValeurCmp = VALVE0;
+IdModule  = LFA_VALVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /5182D235;
+Reference = V2;
+ValeurCmp = VALVE1;
+IdModule  = LFA_VALVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /5182D23F;
+Reference = V3;
+ValeurCmp = VALVE2;
+IdModule  = LFA_VALVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /5182D23E;
+Reference = V4;
+ValeurCmp = VALVE3;
+IdModule  = LFA_VALVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /5182D24C;
+Reference = V5;
+ValeurCmp = VALVE4;
+IdModule  = LFA_VALVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /5182D24B;
+Reference = V6;
+ValeurCmp = VALVE5;
+IdModule  = LFA_VALVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /5182D249;
+Reference = V7;
+ValeurCmp = VALVE6;
+IdModule  = LFA_VALVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /5182D24A;
+Reference = V8;
+ValeurCmp = VALVE7;
+IdModule  = LFA_VALVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DBB68A;
+Reference = V9;
+ValeurCmp = VALVE8;
+IdModule  = LFA_VALVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DBB684;
+Reference = V10;
+ValeurCmp = VALVE9;
+IdModule  = LFA_VALVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DBB678;
+Reference = V11;
+ValeurCmp = VALVE10;
+IdModule  = LFA_VALVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DBB67E;
+Reference = V12;
+ValeurCmp = VALVE11;
+IdModule  = LFA_VALVE;
+EndCmp
+
+EndListe

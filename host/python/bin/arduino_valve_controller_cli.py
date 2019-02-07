@@ -1,0 +1,3 @@
+#!python
+from arduino_valve_controller import arduinoValveControllerCli
+arduinoValveControllerCli()

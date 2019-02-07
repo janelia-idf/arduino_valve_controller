@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Arduino Valve Controller</title>
+    <meta http-equiv="pragma" content="no-cache">
+    <link rel="stylesheet" href="static/jquery-ui-1.10.4.custom.min.css?v=1" type="text/css" />
+    <link rel="stylesheet" href="static/style.css?v=1" type="text/css" />
+    <script type="text/javascript" src="/static/js/jquery/jquery-2.1.0.min.js"></script>
+    <script type="text/javascript" src="/static/js/jquery/jquery-ui-1.10.4.custom.min.js"></script>
+    <script type="text/javascript" src="/static/js/sijax/sijax.js"></script>
+    <script type="text/javascript">
+      {{ g.sijax.get_js()|safe }}
+    </script>
+  </head>
+
+  <body>
+    <div class="center">
+      <h2>Set Valve On</h2>
+      <div id="setValveOn">
+        <input type="radio" id="valve0" name="valve" value="0" /><label for="valve0">Valve 0</label>
+        <input type="radio" id="valve1" name="valve" value="1" /><label for="valve1">Valve 1</label>
+        <input type="radio" id="valve2" name="valve" value="2" /><label for="valve2">Valve 2</label>
+        <input type="radio" id="valve3" name="valve" value="3" /><label for="valve3">Valve 3</label>
+        <input type="radio" id="valve4" name="valve" value="4" /><label for="valve4">Valve 4</label>
+        <input type="radio" id="valve5" name="valve" value="5" /><label for="valve5">Valve 5</label>
+        <input type="radio" id="valve6" name="valve" value="6" /><label for="valve6">Valve 6</label>
+        <input type="radio" id="valve7" name="valve" value="7" /><label for="valve7">Valve 7</label>
+      </div>
+      <button class="button" id="setAllValvesOff">Set All Valves Off</button>
+    </div>
+    <script type="text/javascript" src="/static/js/scripts/script.js"></script>
+  </body>
+</html>

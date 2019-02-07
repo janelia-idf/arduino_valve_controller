@@ -1,0 +1,45 @@
+eeschema (2013-jul-07)-stable  >> Creation date: Fri 01 Aug 2014 03:38:42 PM EDT
+#Cmp ( order = Reference )
+| C1         10uF        
+| C2         0.1uF       
+| C3         0.1uF       
+| D1         LED         
+| D2         LED         
+| D3         LED         
+| D4         LED         
+| D5         LED         
+| D6         LED         
+| D7         LED         
+| D8         LED         
+| D9         LED         
+| D10        LED         
+| D11        LED         
+| D12        LED         
+| D13        LED         
+| MH1        CONN_1      
+| MH2        CONN_1      
+| MH3        CONN_1      
+| MH4        CONN_1      
+| P1         +5VDC       
+| R1         150         
+| RP1        150         
+| RP2        150         
+| RP3        150         
+| SHIELD1    ARDUINO_MEGA_SHIELD_FULL
+| U1         TLE723X     
+| U2         TLE723X     
+| V1         VALVE0      
+| V2         VALVE1      
+| V3         VALVE2      
+| V4         VALVE3      
+| V5         VALVE4      
+| V6         VALVE5      
+| V7         VALVE6      
+| V8         VALVE7      
+| V9         VALVE8      
+| V10        VALVE9      
+| V11        VALVE10     
+| V12        VALVE11     
+#End Cmp
+
+#End List

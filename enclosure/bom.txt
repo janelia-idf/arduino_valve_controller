@@ -1,0 +1,20 @@
+-*- mode:org -*-
+
+# Bill of Materials
+| ! | description                                                                                                    | vendor   | part number | quantity |  cost |
+|---+----------------------------------------------------------------------------------------------------------------+----------+-------------+----------+-------|
+|   | 18-8 Stainless Steel Socket Head Cap Screw, 4-40 Thread, 1-1/2" Length                                         | mcmaster | 92196A119   |        4 |  0.09 |
+|   | 18-8 Stainless Steel Socket Head Cap Screw, 4-40 Thread, 1" Length                                             | mcmaster | 92196A115   |        4 |  0.06 |
+|   | 18-8 Stainless Steel Socket Head Cap Screw, 2-56 Thread, 3/8" Length                                           | mcmaster | 92196A079   |        4 |  0.06 |
+|   | 300 Series Stainless Steel Mil Spec Flat Washer, Number 4 Size, .25" OD, .02"-.03" Thickness, NASM/MS15795-803 | mcmaster | 98019A309   |        4 |  0.01 |
+|   | Nylon 6/6 General Purpose Flat Washer, Number 4 Screw Size, .21" OD, .04"-.06" Thick                           | mcmaster | 90295A340   |        4 |  0.05 |
+|   | Nylon 6/6 General Purpose Flat Washer, Number 2 Screw Size, .19" OD, .01"-.03" Thick                           | mcmaster | 90295A320   |        4 |  0.06 |
+|   | Nylon Unthreaded Spacer, 3/16" OD, 3/16" Length, #4 Screw Size                                                 | mcmaster | 94639A615   |        4 |  0.07 |
+|   | Nylon Unthreaded Spacer, 3/16" OD, 1/8" Length, #2 Screw Size                                                  | mcmaster | 94639A610   |        4 |  0.07 |
+|   | 18-8 Stainless Steel Broach Style Captive Nut, 4-40 Thread Size, .060" Minimum Panel Thickness                 | mcmaster | 94648A320   |        8 |  0.40 |
+|   | 18-8 Stainless Steel Broach Style Captive Nut, 2-56 Thread Size, .060" Minimum Panel Thickness                 | mcmaster | 94648A310   |        4 |  0.41 |
+|   | Optically Clear Cast Acrylic Sheet, 1/8" Thick, 12" x 12"                                                      | mcmaster | 8560K239    |        1 |  8.63 |
+|   | Optically Clear Cast Acrylic Sheet, 1/4" Thick, 12" x 12"                                                      | mcmaster | 8560K354    |        1 | 16.36 |
+|---+----------------------------------------------------------------------------------------------------------------+----------+-------------+----------+-------|
+| # | total                                                                                                          |          |             |          | 31.71 |
+#+TBLFM: @14$6=(@I$quantity..@II$quantity)*(@I$cost..@II$cost);%.2f;N
